@@ -1,0 +1,22 @@
+{
+  "category": {
+    "accommodation": 0,
+    "attraction": 1,
+    "beach": 2,
+    "entertainment": 3,
+    "food_drink": 4,
+    "history": 5,
+    "museum": 6,
+    "nature": 7,
+    "religious": 8,
+    "shopping": 9
+  },
+  "location_zone": {
+    "cebu_city": 0,
+    "eastern_cebu": 1,
+    "north_cebu": 2,
+    "north_metro": 3,
+    "south_cebu": 4,
+    "south_metro": 5
+  }
+}
