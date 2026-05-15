@@ -1,0 +1,318 @@
+row_index,google_place_id,name,category,location_zone,weighted_score,average_rating,review_count
+0,ChIJiYix3uCbqTMRAqkwfbD7es0,Fort San Pedro,attraction,cebu_city,0.8001848772594393,4.2,7863.0
+1,ChIJPwVVvlqfqTMR8k8YW0-7Luo,Temple of Leah,attraction,cebu_city,0.8001411961928331,4.2,10311.0
+2,ChIJAeJQylufqTMRoYHzWBE4lzM,TOPS Cebu,attraction,cebu_city,0.8745781877082153,4.5,5372.0
+3,ChIJdZVg9F6ZqTMRbU7ErBLR6vU,Casa Gorordo Museum,museum,cebu_city,0.8971994724892661,4.6,1213.0
+4,ChIJQVwA2-ObqTMR--ZXFjrCXiQ,Magellan's Cross,history,cebu_city,0.8499139721073367,4.4,12005.0
+5,ChIJmRDV5l6ZqTMR_TGUzibVfww,Yap-San Diego Ancestral House,history,cebu_city,0.8494819848920795,4.4,1952.0
+6,ChIJH7-Frg-hqTMRcR-eubefklo,Sirao Garden,attraction,north_metro,0.8497106399983101,4.4,3534.0
+7,ChIJz_XF1U-ZqTMRLuh28VvaWq0,Sky Experience Adventure,attraction,cebu_city,0.8015318678051762,4.2,905.0
+8,ChIJkRLIDF2ZqTMRYsvjh5V6j3M,Museo Sugbo,museum,cebu_city,0.8252135744773753,4.3,947.0
+9,ChIJdWAY9omZqTMR5PT1YBVRFhM,Beverly Hills Lahug Cebu City,attraction,cebu_city,0.8601489204801508,4.5,104.0
+10,ChIJU4E_P7yeqTMRmYjKAQ_D5kY,Celestial Garden,religious,cebu_city,0.7797893056042371,3.8,31.0
+11,ChIJXZDS_wqcqTMRtjB3-gvX4X4,The Cube - SM Seaside City,history,cebu_city,0.825489502882628,4.3,385.0
+12,ChIJ8ZcMGyuZqTMRh0kBRAhSv_o,Cebu Taoist Temple,religious,cebu_city,0.825099316116578,4.3,2094.0
+13,ChIJtUqLDKibqTMRvX48jFWyLX8,Downtown Cebu City,attraction,cebu_city,0.7993822292323869,3.6,10.0
+14,ChIJSWEB-vehqTMRqKcQS5qhODE,Budlaan Falls,attraction,cebu_city,0.8258005028343729,4.3,216.0
+15,ChIJadEVV0yZqTMRekT3PI-8Jwc,Cebu Kilometer Zero,attraction,cebu_city,0.8476768432871731,4.8,9.0
+16,ChIJQYJWH1-ZqTMRL8vTiCw8NSk,1730 Jesuit House,museum,cebu_city,0.885503826860423,4.6,194.0
+17,ChIJ4dWUPl-ZqTMRRAXUfxKt42s,Colon Obelisk arcae,history,cebu_city,0.7314812159449383,3.6,60.0
+18,ChIJhwbYF6KhqTMRnblKTxe9bqo,Heritage of Cebu Monument,history,cebu_city,0.8251990035083582,4.3,1020.0
+19,ChIJ1x1EHOGbqTMR5_q34HlTerk,Plaza Independencia,nature,cebu_city,0.8493910356746585,4.4,1653.0
+20,ChIJocIZfv6bqTMRMHD_dmj-wqg,Taboan Public Market,attraction,cebu_city,0.8250352772952191,4.3,5986.0
+21,ChIJAaoG--ObqTMRRGDPktel7bk,Sugbu Chinese Heritage Museum,history,cebu_city,0.783584184355451,4.0,68.0
+22,ChIJpbDccACbqTMRJYVjO8bttgI,Cebu City Seawall,attraction,cebu_city,0.7918626326355033,3.7,16.0
+23,ChIJ__-v5-GbqTMRZsiTt-BnJLw,Rajah Humabon Monument & Humabon Historical Marker,history,cebu_city,0.7636544109648645,3.7,37.0
+24,ChIJT7kt7uGbqTMRE9pS3Ayv3ao,Archdiocesan Museum of Cebu,museum,cebu_city,0.8255193506193736,4.3,360.0
+25,ChIJlWUN8-GbqTMRepueypood48,Cebu Metropolitan Cathedral,religious,cebu_city,0.9228648232622406,4.7,2192.0
+26,ChIJ44n4BUqZqTMRnTzd5jeE0gQ,Cebu Provincial Capitol,attraction,cebu_city,0.8437526129755617,4.4,116.0
+27,ChIJ0_q_fuGbqTMR7Jtr5sWh-hU,Museo Basílica Del Santo Niño,museum,cebu_city,0.8390835131994023,4.4,45.0
+28,ChIJO88KUwCfqTMRXjMon7rGBD0,Busay Cebu,attraction,cebu_city,0.8402351591626038,4.8,5.0
+29,ChIJwQ3KH9qYqTMRiX2vvF5-pcI,Goddess of Mercy,attraction,cebu_city,0.8285488958990536,4.3,10.0
+30,ChIJS5JJOgadqTMRUJqM5_VlPyo,Cebu Ocean Park,entertainment,cebu_city,0.8497751374141248,4.4,4562.0
+31,ChIJR3ruO0WfqTMRGBL1kQa3o_k,Pillar of wisdom,attraction,cebu_city,0.8475523884632717,5.0,6.0
+32,ChIJkw4YkuSbqTMRj-KNt73Rp_w,Carbon Market,attraction,cebu_city,0.8001956055293413,4.2,7429.0
+33,ChIJkdhu5OObqTMRKja-3osRDPM,Jose Rizal Monument,history,cebu_city,0.8183264440335036,4.0,8.0
+34,ChIJEXt_JeGbqTMRBiTzDaj6YkE,Cebu Veterans Memorial,history,cebu_city,0.8438632839651392,4.7,9.0
+35,ChIJ5-E8c0WZqTMRl_XfV23NVlI,Eukaristiya - Garden of Thanksgiving,nature,cebu_city,0.8326469213693187,4.5,4.0
+36,ChIJkZqKMgCbqTMRzNY50ysUixQ,Pier Jays Fishing Spot,attraction,cebu_city,0.7973641106527541,1.0,2.0
+37,ChIJJ6QUUPKhqTMRNu715p48jA8,Little Amsterdam of Cebu,nature,north_metro,0.8135456829068817,4.2,58.0
+38,ChIJrUuKapKVqzMRQvxRUEQqaqc,Cancalanog Falls,attraction,south_cebu,0.8456241930546128,4.4,187.0
+39,ChIJAQAAAJGdqzMRCm_lZQIGNNs,Binalayan Hidden Falls,attraction,south_cebu,0.9133242286681542,4.7,360.0
+40,ChIJ-5U3mZehqTMRyboNdkeoXsQ,Celosia Flower Farm,nature,north_metro,0.8420225673380248,4.4,80.0
+41,ChIJeX8MgLLYqzMRue1rgnb9bHY,Mantayupan Falls,attraction,south_metro,0.8965048752509319,4.6,962.0
+42,ChIJG307GL6WqzMRTsYGmmkWu7k,Cambais Falls,attraction,south_cebu,0.8678529179810726,4.5,270.0
+43,ChIJzaFdmHHAqzMRzyRjfu-ZeDU,Kawasan Falls,attraction,south_cebu,0.8746036280336124,4.5,5720.0
+44,ChIJjwZQ6IvcqzMR0WqHoCd4ap4,Lusno Falls,attraction,south_metro,0.8432217892414591,4.4,103.0
+45,ChIJ56x_EsGbqzMR-DcsH4m41Z8,Kabutongan Falls,attraction,south_cebu,0.7486951534270145,3.9,170.0
+46,ChIJL_Kb3FidqzMRBxynW5Qfs0I,Dao Falls,attraction,south_cebu,0.8255724025643635,4.3,322.0
+47,ChIJ4bgwIiOcqzMROg1NpXKtrcA,Inambakan Falls,attraction,south_cebu,0.8718967893540613,4.5,687.0
+48,ChIJe4fNPUCZqTMR5ifh0jqkDSg,Cebu City Tour,attraction,cebu_city,0.8381118347410195,4.5,12.0
+49,ChIJOeNmWACVqzMRVj54zGvmqAc,Kanlaob Falls,attraction,south_cebu,0.8432351910269892,4.5,22.0
+50,ChIJQRl4S1iZqTMRZzvp3uOXAFg,University of San Carlos Museum,museum,cebu_city,0.8698489498962685,4.5,394.0
+51,ChIJfcqOsBqZqTMR-AN8c3kGw_I,Cebu Kartzone Track,attraction,cebu_city,0.8029435286799663,4.2,447.0
+52,ChIJYXnnKByZqTMRC1Wb7XGAw3E,EscapeCEBU,attraction,cebu_city,0.874609828988876,4.7,45.0
+53,ChIJZW5_y-abqTMRO1ZYVTbD6mE,National Museum of the Philippines - Cebu,museum,cebu_city,0.8948136858562216,4.6,632.0
+54,ChIJ7QGoYuGbqTMRU-2y4Igwiyw,BPI Museum,museum,cebu_city,0.8149661271138232,4.0,11.0
+55,ChIJUx4yODN2qzMRkZqWp_7Nego,Aguinid Falls,attraction,south_cebu,0.8705504547742086,4.5,464.0
+56,ChIJf4X5EVeZqTMRQ_EpX26alNA,Cebu City Sports Center,attraction,cebu_city,0.8495585073452292,4.4,2299.0
+57,ChIJ3xcIQNCXqTMR5QCimnAfri4,Mactan Shrine,history,eastern_cebu,0.8492696716577066,4.4,1370.0
+58,ChIJBcknJOGbqTMR0FI5ageqdP8,Andres Bonifacio Monument and Historical Marker,history,cebu_city,0.8381118347410195,4.5,12.0
+59,ChIJsU0lXrqbqTMRSzJaUJRJoiQ,Church and Convent of Santo Niño Historical Marker,history,cebu_city,0.8418541123759886,4.5,19.0
+60,ChIJPTWPS_6bqTMRToHjT4WgsQY,Battle of Tres de Abril Marker,history,cebu_city,0.8284907172777577,4.3,11.0
+61,ChIJs6m8SvabqTMRcrwULq3v-uk,South Road Properties Welcome Hill Tower,history,cebu_city,0.8498674038894859,4.5,41.0
+62,ChIJkQyF2eCbqTMRT8Gue94LhzI,Monument of Italian Antonio Pigafetta,history,cebu_city,0.8132103345625804,4.1,21.0
+63,ChIJC9HXAuGbqTMRgVdZM4RjjwE,Miguel López de Legazpi Monument,history,cebu_city,0.816254819488258,4.2,40.0
+64,ChIJv57vuByXqTMRVxIpurXB7Vg,Lapulapu Monument,history,eastern_cebu,0.8490997688836313,4.4,1102.0
+65,ChIJb0AvS8ObqTMRiOdREpMasi0,Cebu China Town,history,cebu_city,0.8220533409807858,4.0,5.0
+66,ChIJI-Q9vUuZqTMReWgG8h-y65w,Philippine Chinese Spiritual Temple,attraction,cebu_city,0.85887132272027,4.6,36.0
+67,ChIJEalesxWZqTMRXDp52gxWuPo,Carmelite Monastery,religious,cebu_city,0.9444967490920174,4.8,1047.0
+68,ChIJKyHUX_SfqzMRGnhoQMklRJY,Cuartel Ruins (Museo Oslob),history,south_cebu,0.8732791074145547,4.5,1279.0
+69,ChIJ95A-5AycqTMRAigIv9nsSQs,Chapel of San Pedro Calungsod,religious,cebu_city,0.918478111381394,4.7,684.0
+70,ChIJ4bw-lTQBqTMR_vaucHWN0NA,Old Panghaw Ruins,attraction,north_cebu,0.8382024769248744,4.8,4.0
+71,ChIJp45-1uObqTMRKiyk55UEjGY,Minor Basilica of the Holy Child of Cebu (Basilica Minore Del Sto. Niño de Cebu),religious,cebu_city,0.9244484946721132,4.7,8630.0
+72,ChIJP_YPFwq9qTMRhff__b7AQqY,Bagacay Point Lighthouse,history,eastern_cebu,0.8466546250127202,4.4,260.0
+73,ChIJM7oYEkWZqTMRTTYgCz5HUaY,Cebu Archdiocesan Shrine of Saint Pedro Calungsod,religious,cebu_city,0.8947021123667293,4.7,108.0
+74,ChIJzS-uWE6ZqTMR7yjRf5E9bt0,Fuente Osmeña Circle,nature,cebu_city,0.800516755123258,4.2,2781.0
+75,ChIJ5-55wmd9qTMR6ltkkrdlwOw,Mercado Mansion,history,south_metro,0.8371967130116447,4.4,31.0
+76,ChIJD4VamGibqTMRVm86CV46lfY,Gotiaoco Building,history,cebu_city,0.832606544194965,5.0,1.0
+77,ChIJaWQelRyXqTMRVFOehBPdGPs,Magellan's Marker,history,eastern_cebu,0.8008887811384832,4.2,1596.0
+78,ChIJ40-A7RecqTMR3k8P-RT__BU,Jumalon Butterfly Sanctuary And Art Gallery,museum,cebu_city,0.8464239094963559,4.4,240.0
+79,ChIJX0FewuObqTMRpcVANk2piqg,Sergio V. Osmeña Jr. Monument,history,cebu_city,0.7856897046171494,2.4,5.0
+80,ChIJpcoLrk6ZqTMRcExWAjIzTbo,Cebu City Museum,museum,cebu_city,0.8064520899053628,3.9,14.0
+81,ChIJOztTQwCZqTMRSfbvMK1lusQ,UP Cebu Museum of Art & Culture,museum,cebu_city,0.8148666746027022,3.3,3.0
+82,ChIJff35ql-ZqTMR2rs9ITa-M8A,Museo Parian sa Sugbo,history,cebu_city,0.8420153074416921,4.6,11.0
+83,ChIJi90hrk6ZqTMRpSo_IcOSSrU,Rizal Memorial Library & Museum Building,museum,cebu_city,0.8456056514997595,4.4,186.0
+84,ChIJVVVVWVeZqTMRl7svJzEKQdE,Cebu Normal University Museum,museum,cebu_city,0.857804013187543,4.5,83.0
+85,ChIJv5CQXACXqTMRoPabt38KtYk,Mactan World Museum,history,eastern_cebu,0.8346779953574192,4.7,3.0
+86,ChIJY-TUSIGZqTMR3Wq19sd6T4o,STC Folklife Museum,museum,cebu_city,0.8073738170347003,3.5,6.0
+87,ChIJWXXYEWh9qTMR4F1__49kG-0,Carcar City Museum,museum,south_metro,0.7945175090211742,4.1,89.0
+88,ChIJAQAA0EuZqTMRa-VZiB1rJ0M,Governors' Gallery,museum,cebu_city,0.8277045834106512,4.0,1.0
+89,ChIJfwUUEeGiqzMRDZchWloRdos,Boljoon Parish Museum,museum,south_cebu,0.8656595510091574,4.6,53.0
+90,ChIJm2Mp6xiZqTMRemzTwBMXRVk,Qube Gallery,museum,cebu_city,0.852355779742012,4.5,51.0
+91,ChIJva7EA-KhqTMRXv0yKCs_kPg,Terrazas de Flores Botanical Garden and Restaurant,food_drink,cebu_city,0.825353710554723,4.3,552.0
+92,ChIJRYgcrqV5qTMRatgajOsUJiE,Museo de Naga,museum,south_metro,0.8395166741775575,4.7,6.0
+93,ChIJZar-8URlqDMRN_CRHFT0Fco,Medellin Town Museum,museum,north_cebu,0.822506673137588,4.2,15.0
+94,ChIJnagE7CsNqTMRFZ1wkCBdgH8,Rica Juarez Studio,museum,north_metro,0.841906180628578,5.0,4.0
+95,ChIJpfi_g_WaqTMRbZPSsZ7-BsU,Cordova Museum,museum,eastern_cebu,0.8011654398878373,2.8,4.0
+96,ChIJR6nEAT-ZqTMRrs6rLtOswdk,Ayala Terraces,shopping,cebu_city,0.8746610247152724,4.5,6697.0
+97,ChIJm1S9B92ZqTMRcvwrwgnkgN4,Jose Joya Art Gallery,museum,cebu_city,0.8623053831281162,5.0,12.0
+98,ChIJH2URLOaYqTMRAo6UJjq4ar0,Artissimo Art House,museum,cebu_city,0.8341595313204146,4.5,6.0
+99,ChIJsxkTKgCdqTMRSM0rYN4esCU,ALIGATO PALACE,museum,cebu_city,0.8389232783762871,5.0,3.0
+100,ChIJZz844hudqTMRrHiRx6mqHdk,Museo de Talisay (ecomuseum),museum,south_metro,0.8038715227989676,3.2,5.0
+101,ChIJdcjIFgucqTMR-kymV6QRuqA,Sky Park Garden,nature,cebu_city,0.8693364389993398,4.7,36.0
+102,ChIJ8z8T0ZWYqTMRE57h00Gphes,D' Family Park,nature,cebu_city,0.7796295797848859,4.1,536.0
+103,ChIJAQAAAE2fqTMRzRCgt8lYPJQ,Mountain View Nature's Park,accommodation,cebu_city,0.8017711062396408,4.2,776.0
+104,ChIJzQIV3CGZqTMRlWk_9p1F2hQ,Cebu IT Park,nature,cebu_city,0.8747940693097374,4.5,11056.0
+105,ChIJ2cwbW-ObqTMR4tzhhkB7vR4,Freedom Park,nature,cebu_city,0.8024260924609341,4.2,553.0
+106,ChIJyW0jcSeZqTMR0b9f4EWpuEc,Family Park Talamban Entrance,nature,cebu_city,0.7981874679824206,4.1,67.0
+107,ChIJ_y9nBv6dqTMRNSihzGB6L8k,Anjo World Theme Park,nature,south_metro,0.84947859917242,4.4,1939.0
+108,ChIJwY0vHOGbqTMRONDE_Nrwbcc,Cebu City Goverment - Parks and Playgrounds Commission,nature,cebu_city,0.8381118347410195,4.5,12.0
+109,ChIJQal5Z7KZqTMRFcu9gkc0tPA,Mandaue City Garden,nature,eastern_cebu,0.8540177408618643,4.5,59.0
+110,ChIJfRI3rGyZqTMRBWJSbUL8GgA,The Millennium Park,nature,cebu_city,0.8285488958990536,4.3,10.0
+111,ChIJVcpbjgidqTMRHI-48VL-9tM,Snow World Cebu,nature,south_metro,0.7375010401773219,3.9,367.0
+112,ChIJ0TTlZQucqTMR-DTvMHgH70U,Sky Park,nature,cebu_city,0.8857617520815018,4.7,72.0
+113,ChIJTTtaWgCZqTMRmExL0sIjxn8,CBP Central Park,nature,cebu_city,0.8345213993125854,4.4,17.0
+114,ChIJIZuZLe6fqTMRbFYuHglJhi8,Sachiko's Little Kyoto,nature,cebu_city,0.8253496449161628,4.3,559.0
+115,ChIJvTvYdACdqTMR0P8I6SJaXi4,Cebu Fun Park,nature,cebu_city,0.6307866719242903,2.2,30.0
+116,ChIJUx46VEmiqTMRezSBgzolhYY,The Topiary,nature,north_metro,0.8285488958990536,4.3,10.0
+117,ChIJtSnELYSeqTMRQqPG-w9c_70,Cebu Hillyland,nature,cebu_city,0.8427877993513129,4.5,21.0
+118,ChIJKxKUzy2ZqTMRklrAkX2L0Dw,Capitol Heritage Park,nature,cebu_city,0.8165948798835234,3.0,2.0
+119,ChIJF5VQajeZqTMRTTNdqhMN-SE,WaterWorld Cebu,nature,eastern_cebu,0.7306417031969081,3.9,874.0
+120,ChIJx537uT2fqTMRrXbUsCzgeTg,Busay Bike Park,nature,cebu_city,0.8452155625657203,4.7,10.0
+121,ChIJaejjSiWZqTMRePxkwZemv2M,La Parisienne Cebu,food_drink,cebu_city,0.8250406750246309,4.3,5185.0
+122,ChIJfcTcgjO7qTMRCVOvGUEOUxw,Cascades Nature Park,nature,north_metro,0.8254872625948357,4.3,387.0
+123,ChIJBeMWxG6hqTMRqrRmWNRSU8A,"Mt. Kang-Irag Campsite, Sirao",nature,cebu_city,0.908365060372022,4.8,95.0
+124,ChIJNT-ySLOjqTMR0X8ElltDdHY,Golden Haven Memorial Park - Cebu Office,nature,cebu_city,0.8397320173657745,4.4,51.0
+125,ChIJQbvakUKZqTMREmJfSE0UT84,Doña Pepang Heritage Park,nature,cebu_city,0.7879169467859544,3.4,11.0
+126,ChIJq5tljwucqTMRspXTKaTyup8,Water Play SM Seaside,nature,cebu_city,0.8287356798937406,4.3,7.0
+127,ChIJq2IdQWaZqTMRwAM6-07QJa4,Verandah Fountain,nature,cebu_city,0.8261238170347004,4.2,6.0
+128,ChIJnymbkC6bqTMRg5714hrA8KQ,Cebu City Children's Park and Playground,nature,cebu_city,0.841906180628578,5.0,4.0
+129,ChIJHzm1fOSYqTMRC7axYsoc5cY,Cebu Memorial Park,nature,cebu_city,0.8174158780231335,4.2,34.0
+130,ChIJw-sAySGZqTMR9MobrYMi8GY,Sugbo Mercado,food_drink,cebu_city,0.8498540987273416,4.4,7058.0
+131,ChIJoctHCzGfqTMRwbPMOYZszkI,Nichols Park Subdivision,nature,cebu_city,0.8233876621100595,4.0,4.0
+132,ChIJ4bEIWb6ZqTMRFS8ArYDXz6Q,Plaza Rizal,nature,eastern_cebu,0.875091082774248,4.6,92.0
+133,ChIJkQFWnJCYqTMR5wtlt7H7X_s,Golden Haven Memorial Park Cebu,religious,north_metro,0.8751771747115509,4.9,23.0
+134,ChIJweRU5zqZqTMRgicIr3-9X-k,Kalidhay Park,nature,eastern_cebu,0.8382024769248744,4.8,4.0
+135,ChIJx4Nv9uObqTMRGFMN-u7faPY,Senior Citizen Park,nature,cebu_city,0.7901616719242902,3.9,30.0
+136,ChIJC4MIgnKZqTMRWP3VNaYBOF4,SM Storyland,nature,cebu_city,0.8119208399053628,4.0,14.0
+137,ChIJZ_1qi7eYqTMRdAJlzBxSLtY,Maria Luisa Highlands Clubhouse and Park,nature,cebu_city,0.812397743677485,4.2,68.0
+138,ChIJ2fq8nRidqTMRt671KgbUT8A,Crocolandia,entertainment,south_metro,0.8254134635998898,4.3,465.0
+139,ChIJAVOSl9OZqTMRKFuj71JIJUI,Millennium Park,nature,eastern_cebu,0.7797678976343465,4.1,519.0
+140,ChIJ3Td4K1qfqTMRKhbRoWOa1Y8,Rope Course Adventure,nature,cebu_city,0.8375071107203806,4.5,11.0
+141,ChIJe1YOacaZqTMRnoLk8S08RpA,Lapu-Lapu City Senior Citizen's Park,nature,eastern_cebu,0.8279169007389482,4.3,23.0
+142,ChIJLzAmDPGdqTMRN8TcyJ2LUeY,Talisay Skate Park,nature,cebu_city,0.8566133393420459,4.7,20.0
+143,ChIJy7bCWACZqTMRwJqN2l380Xg,Bridge Park,nature,eastern_cebu,0.8501821655484959,4.6,21.0
+144,ChIJ5ayiuvWaqTMRzLQGS4yTAl0,Cordova Park,nature,eastern_cebu,0.7885333390951126,3.8,23.0
+145,ChIJDRMjMhCuqTMRDJ9Sx5baExY,Cebu Safari and Adventure Park,attraction,north_metro,0.8988674139461873,4.6,3073.0
+146,ChIJ4RTeoEmfqTMRModG8vGejS4,BUSAY FALLS,attraction,cebu_city,0.7816623234124263,3.9,42.0
+147,ChIJjSmLnHGeqTMR6C15YGuC4b0,Kawa Falls,attraction,cebu_city,0.7738837660761951,3.7,28.0
+148,ChIJ63Ev1YmfqTMRrgawI1Ce37g,Himbabawod Falls,attraction,cebu_city,0.8288023884632718,4.3,6.0
+149,ChIJLfdeIT6eqTMR-ys6kWNOj60,Igutan Falls,attraction,cebu_city,0.8126114978788208,4.2,66.0
+150,ChIJgS9PmPehqTMRyq8XLx6sGY0,Kabang Falls,nature,cebu_city,0.796461697820048,3.8,17.0
+151,ChIJRzK717afqTMRHc1c43G-Nho,Balisong Falls,attraction,cebu_city,0.8283799008562415,4.3,13.0
+152,ChIJ25AWJ5SgqTMRreNeTYPuQus,Gining Falls,attraction,north_metro,0.8375071107203806,4.5,11.0
+153,ChIJC9NyI_KhqTMRhFllDPnu55A,Sayaw Falls,attraction,north_metro,0.8072444518235652,3.6,7.0
+154,ChIJo1rDyuCfqTMRx7VtNEF0pX4,Dakit Falls,attraction,cebu_city,0.8346779953574192,4.7,3.0
+155,ChIJk3eKawCfqTMRhZxLMHd3PM0,Langgitan Falls,attraction,cebu_city,0.8287356798937406,4.3,7.0
+156,ChIJS9U3GSF1qTMRl96pI_gSsiY,Manipis Falls,attraction,cebu_city,0.8326469213693187,4.5,4.0
+157,ChIJw8WcG3ifqTMRurJ2vPg6eDY,Bocaue Falls (Campo Cuatro Falls),attraction,cebu_city,0.8346779953574192,4.7,3.0
+158,ChIJu6TylIZ1qTMRGIM7rYHxmOQ,Paju Falls,attraction,cebu_city,0.811787187575831,2.5,2.0
+159,ChIJz96HUoFSqDMRiWAzJS1YPZE,Tinubdan Falls,nature,north_cebu,0.7518515199311729,3.6,38.0
+160,ChIJA53MLnh3qTMRFBpuge3V85s,Matun-og Falls,attraction,cebu_city,0.8207666741775574,4.0,6.0
+161,ChIJRcCglLx1qTMRu_fbodBr8Gs,Malubog Falls,attraction,cebu_city,0.8534596546571476,4.6,26.0
+162,ChIJJ2dbEwCjqTMRSLB0foP9Bu8,Panas Falls,attraction,north_metro,0.8318058553323371,4.4,7.0
+163,ChIJf7g2bf5xqTMRvwLSx3zHIOc,Sinungkulan Falls,attraction,cebu_city,0.8427877993513129,4.5,21.0
+164,ChIJqw73CWChqTMRmVFAWOAPhJE,Manggasang Falls,attraction,north_metro,0.8389232783762871,5.0,3.0
+165,ChIJYUesWrZ3qTMR_IFpUBtMg10,Kwasan Falls,attraction,cebu_city,0.8278017599203056,4.3,26.0
+166,ChIJb-hseIBNqDMRltzlJ--Pi2E,Ka-Tinggo Falls,attraction,north_cebu,0.804240866999084,3.8,12.0
+167,ChIJq60TnTZlqTMR7a6qpH4pCY4,Busagak Falls,attraction,south_metro,0.8477730208802764,4.5,34.0
+168,ChIJz_22VoVxqTMRD94ZZPxVh9I,Udlom Falls,attraction,cebu_city,0.850226907963916,5.0,7.0
+169,ChIJvbpuXQCjqTMRUVQdbvGrP58,DAO FALLS,attraction,cebu_city,0.8310179568066003,4.5,2.0
+170,ChIJ58BwOoR9qTMRJRhvntyceiA,Busay Falls,attraction,south_metro,0.8286712716197105,4.3,8.0
+171,ChIJBfGW8m7dqzMR8hx2oAxOvQw,Cambanog Falls,attraction,south_metro,0.8487118822292323,4.5,37.0
+172,ChIJAQAAAPBRqDMRWZfsKI3-7dk,Bagatayam Falls,attraction,north_cebu,0.7971777827850384,4.0,34.0
+173,ChIJZ_20foBNqDMR68W6gRDaKG4,Esoy Hot Spring,attraction,north_cebu,0.8062252500167797,4.2,185.0
+174,ChIJg2E9ZfN1qzMR1N-Xe5V3dzo,Tumalog Falls,attraction,south_cebu,0.8987658526706012,4.6,2816.0
+175,ChIJba-Hshp3qTMR1-soRg9QXsg,Liki Falls,attraction,cebu_city,0.841906180628578,5.0,4.0
+176,ChIJpfHZ5QmdqzMREoJ6M-NUHDo,Balay’g sawa Falls,attraction,south_cebu,0.8283799008562415,4.3,13.0
+177,ChIJSSMybzyYqzMRu1UbRDdhMWI,Dayhag Falls,attraction,south_cebu,0.8878909593328932,4.7,79.0
+178,ChIJq6qqqrqeqzMRf0gQhj3uP10,Bugnawan Falls,attraction,south_cebu,0.7993822292323869,3.6,10.0
+179,ChIJ6ySGXsqQqTMRRk3pyfCJX50,Maribago Public Beach,beach,eastern_cebu,0.7414966258036177,3.9,266.0
+180,ChIJv1KZujCdqTMRjVz6L1ymzuo,Rainbow Beach,attraction,south_metro,0.6645277024925578,3.3,92.0
+181,ChIJmbvB_-m8qTMRlsBKWcnblBk,Seafront Beach,beach,north_metro,0.5962960487622306,2.7,68.0
+182,ChIJwe0ZcZeQqTMRcQyI7b112-M,Duawon Beach,beach,eastern_cebu,0.8340451346760496,4.4,15.0
+183,ChIJS9SVyoSQqTMR_r6BdUQiRa8,Vaño Beach,beach,eastern_cebu,0.636820525178175,3.5,814.0
+184,ChIJp_Zn_ZmQqTMRlmi_WfwGL6k,Tonggo Beach,beach,eastern_cebu,0.7588362364559045,3.7,42.0
+185,ChIJb0afFee8qTMRbiuGztZQ7so,Bangkoro Beach,beach,north_metro,0.8166242472039003,4.2,38.0
+186,ChIJG9JQXumcqTMRWJgTND_Ta2o,Paz Beach Resort,beach,south_metro,0.7787169112604581,4.0,88.0
+187,ChIJ91Cv8om9qTMR_USQoLPS8Mo,VGL BEACH,beach,eastern_cebu,0.8148781681714347,3.9,8.0
+188,ChIJH1HYf8fNqTMRdMee-MDbHzk,Santiago White Beach,attraction,north_metro,0.8536255491022731,4.5,57.0
+189,ChIJM15Hr4SQqTMRLloU8vBMML4,Banban Beach,beach,eastern_cebu,0.7018945785342234,3.1,36.0
+190,ChIJQQLMF7WHqDMR36mJ20ZmU-g,Baigad Lagoon Beach,attraction,north_cebu,0.7805365994978433,4.1,440.0
+191,ChIJCc2YS2-7qTMRVPnFSJH-p7c,Waboo Beach,beach,north_metro,0.81875556094799,4.2,28.0
+192,ChIJGcYFFEiXqTMR4WARa1cjO_c,Crimson Beach side,beach,eastern_cebu,0.8566133393420459,4.7,20.0
+193,ChIJq7kHmFZ4qTMROLtDWZlh1yM,Ocean Side Beach,beach,south_metro,0.7923276250563316,3.8,20.0
+194,ChIJFQNCUQazqTMRxLeiIknm_YI,Kalubian Beach,beach,north_cebu,0.7996630341267564,4.1,60.0
+195,ChIJs4prCHm6qTMR_Vc18KuwZRU,Costanera Beach,beach,north_metro,0.6924430141447033,3.4,74.0
+196,ChIJUfCdFT1nqDMRRkkRFnT_Oek,Orongan Beach Resort,beach,north_cebu,0.8041093644773686,4.2,306.0
+197,ChIJ0_-59xx4qTMR0e8B4VG5C1o,Pump Beach,beach,south_metro,0.8010850647231589,3.5,8.0
+198,ChIJU_IxCS6XqTMRV2W5EBLoxlU,"Happy Beach Cebu, Mactan",accommodation,eastern_cebu,0.6729818814203672,3.6,340.0
+199,ChIJGznepoK8qTMRnZIQyXW5e4Y,Blue Hibiscus Beach Camp,beach,north_metro,0.8289432176656151,4.3,4.0
+200,ChIJAUcc3zSXqTMR6E6jrOLk728,Bluewater Maribago Beach Resort,accommodation,eastern_cebu,0.8997331120315357,4.6,13203.0
+201,ChIJkfuGOei8qTMRAbnPGN09L5k,pepito beach,beach,north_metro,0.7272666702926139,3.6,66.0
+202,ChIJQzUaun4HqTMRxhV0lNxMGnw,ELECA BEACH,beach,north_cebu,0.8351847679134745,4.4,20.0
+203,ChIJ-QlA2iyXqTMRL-gEYKw3WqU,Bluewater Alegrado Beach,beach,eastern_cebu,0.8205270519611928,3.7,3.0
+204,ChIJvcQXCSCPqTMRgWbEMr0Mr1o,Caohagan Beach,beach,south_metro,0.8408224226012675,4.4,63.0
+205,ChIJ-0VkX095qTMRUjEt7d9mKhc,Hoyohoy Beach,beach,south_metro,0.7980339255077757,3.3,7.0
+206,ChIJj7Op3Xy7qTMRX3GDH0PMHaM,Golden Horizon Beach,beach,north_metro,0.8379462062095301,4.6,7.0
+207,ChIJ_TtnHqSdqTMRtCgmSVCH37c,Canton Beach,accommodation,south_metro,0.8534596546571476,4.6,26.0
+208,ChIJw575NhiRqTMRkr_Aq_Xg5PY,Sulpa Beach,beach,south_metro,0.7614497711822987,3.4,21.0
+209,ChIJ_e8i95qQqTMRG0k2tgaKzFw,Uncle Mike's,beach,eastern_cebu,0.787036764055544,4.0,57.0
+210,ChIJ5YXPXZqQqTMRAUTXYe0eF_M,Galapagos Beach,beach,eastern_cebu,0.7867816486078727,3.7,19.0
+211,ChIJy6VX_em8qTMRphzaa35CNsU,Fatima Beach,beach,north_metro,0.7941885129990209,3.3,8.0
+212,ChIJ9Wo5rse9qTMR1kklgJYM2dM,La Vie Liloan Beach Club,beach,eastern_cebu,0.9205508963606984,4.8,155.0
+213,ChIJpXfpy4kNqTMRkeIWAsbO9U8,Talisay Public Beach,beach,north_metro,0.7952155625657202,3.5,10.0
+214,ChIJa2E7f3qbqTMR3fhTmgUpMos,Bantayan Bay Cordova,attraction,south_metro,0.8261635724259192,4.3,133.0
+215,ChIJN68K4BFiqTMRvCmAZH8gmgs,Sayaw Beach Resort,attraction,south_metro,0.7613551110428172,4.0,299.0
+216,ChIJn1CSWraQqTMRfev5vyg8Jjk,junjun beach,attraction,eastern_cebu,0.777655896504477,3.9,49.0
+217,ChIJIcZcTHmaqTMRGucL2_tRCFs,Suba-Basbas Public Beach,beach,eastern_cebu,0.7708990536277602,3.5,20.0
+218,ChIJm6vfmXiXqTMR4kJkv5iCjuw,Hello Kitty Beach,attraction,eastern_cebu,0.6931145353069643,2.8,28.0
+219,ChIJKXD6cZeQqTMRwUq1gbgLimI,Ocean Pearl Resort,accommodation,eastern_cebu,0.7095043143440342,3.8,630.0
+220,ChIJiwISPsGXqTMRcH4hQWrOJlc,J&J BEACH,attraction,eastern_cebu,0.8247723349800608,4.0,3.0
+221,ChIJE2TfT82dqTMRTyw-eL4h860,Biasong Beach,attraction,south_metro,0.8104579303925118,3.9,11.0
+222,ChIJz9Y5qGmZqTMRl2Lc5DD9XmM,South Palms Resort- Cebu Office,beach,cebu_city,0.8389232783762871,5.0,3.0
+223,ChIJf8v-5Bx4qTMRMWZHKUvsglg,Palm Beach Hotel Resort,accommodation,south_metro,0.6904675240637386,3.5,106.0
+224,ChIJfa2ejy-XqTMRwZUTlx45c_k,Climaco Beach,beach,eastern_cebu,0.7974209401152332,4.1,71.0
+225,ChIJ-xuu4Hq7qTMRTQKJtzK8dhI,"Progress beach , Compostela",beach,north_metro,0.8161050568779274,4.1,16.0
+226,ChIJ5TdO_UaRqTMR4R_y76E3BhA,JPark Beach side,beach,eastern_cebu,0.8132103345625804,4.1,21.0
+227,ChIJW8wZWIOQqTMRuRdd8AgAwlI,Emerson's Beach Resort,beach,eastern_cebu,0.7451175795813019,3.7,60.0
+228,ChIJ8RtLpW-bqTMRTGQRKoauawU,Cordova sandbar beach,beach,south_metro,0.8077155625657203,3.8,10.0
+229,ChIJF894QDCdqTMRfO-Q5OenVLU,Osing Beach Resort,beach,south_metro,0.8247954873549697,4.2,9.0
+230,ChIJLx_4twaXqTMRy8wbQTpuIWU,Danilo's White Beach Cottage,attraction,eastern_cebu,0.8358256491142926,5.0,2.0
+231,ChIJl1vJPAiXqTMRjzZO0OrewfA,JUNJUNBEACH AQUA,attraction,eastern_cebu,0.8192491283413581,4.2,26.0
+232,ChIJldAx2Al_qTMROtLD4K5oONo,Aroma Beach,beach,south_metro,0.8329989139990691,4.4,11.0
+233,ChIJE5t8IzWXqTMRJqGZcFz_log,Ouano Beach House,accommodation,eastern_cebu,0.8695057833859094,4.8,25.0
+234,ChIJgdHK9fedqTMRjVz01w_oFj0,Maharlika Seaside Park,nature,south_metro,0.827765373427834,4.3,27.0
+235,ChIJP14r2qViqDMRl3szqgqBl0Q,Sugar Beach,beach,north_cebu,0.8046295371960228,4.2,266.0
+236,ChIJfWLlM9CzqTMRlJeGkHWLye8,The Cebu Beach House,accommodation,north_metro,0.8276288117770767,4.3,31.0
+237,ChIJyfdN_2-RqTMRqhCNpTasriQ,Katano Hidden Beach,beach,eastern_cebu,0.8072444518235652,3.6,7.0
+238,ChIJzx5BolKZqTMR3hpd77w-Fac,Verano Jr Garden,nature,cebu_city,0.8247954873549697,4.2,9.0
+239,ChIJlWV0slufqTMRJeUsvOHkDBo,Love Lock Garden,nature,cebu_city,0.8375071107203806,4.5,11.0
+240,ChIJwy_X8WAKqTMRQPfNwb_X5yo,Buwakan ni Alejandra,attraction,north_metro,0.8977341023407708,4.6,1511.0
+241,ChIJA-UVq9mhqTMRLYWCoQlHlKk,Don meon Garden,nature,north_metro,0.8471567325253195,4.9,7.0
+242,ChIJd_jrWVWZqTMRxkCd_5mYRjs,Lakeview Le Jardin,nature,north_metro,0.9136292963276562,4.7,371.0
+243,ChIJJbfd4lSYqTMRS3ATC-Ydt6k,Angelicum Garden of Angels,nature,eastern_cebu,0.8678448523085747,4.6,60.0
+244,ChIJsSgta0aZqTMROUdw_V_lEEo,Queen City Memorial Gardens Corporation,religious,cebu_city,0.787291961274883,3.1,8.0
+245,ChIJT-YJdY6hqTMRDrz-csRelYA,Ka-tilong Sunflower Farm,nature,north_metro,0.8324226059990375,4.4,9.0
+246,ChIJxTKP1RucqTMRMaGDFg7xBYc,Villa Esperanza Garden,nature,cebu_city,0.8142032403295458,4.2,53.0
+247,ChIJKc-t8wGlqTMREvifWNrj8S4,micasa garden,food_drink,north_metro,0.8405721250358473,4.4,60.0
+248,ChIJeZUdou-fqTMRjfzOHy-pcyA,Buhisan Dam View Deck,attraction,cebu_city,0.8467646142462124,4.5,31.0
+249,ChIJv63SKwCfqTMRdWvwes3Vvmc,TOPS - SKAI360°,attraction,cebu_city,0.8471089482188197,4.5,32.0
+250,ChIJfa2ofQCfqTMR86cyS-vtVTM,Cebu's Favela View,attraction,cebu_city,0.8048691435915409,3.0,4.0
+251,ChIJi4EUR7egqTMRsqagmytm8LU,BAGUIO DE CEBU ECO-MOUNTAIN PARK ADVENTURE,nature,north_metro,0.8626374797510444,4.5,135.0
+252,ChIJvTK96lqfqTMRf85W9lgIVOM,Leah V. Albino-Adarna,history,cebu_city,0.8111724500525761,4.1,25.0
+253,ChIJ6a1cQfSfqTMRM1P0kQe7G-k,Millthy's View,food_drink,cebu_city,0.8382024769248744,4.8,4.0
+254,ChIJT6MN1yGZqTMR3UfrE5FetKE,Monterrazas De Cebu,history,cebu_city,0.7851989990749744,4.1,216.0
+255,ChIJ05K0ulufqTMRD6TIgEY1-U8,Top of Cebu,food_drink,cebu_city,0.849589280694631,4.4,2475.0
+256,ChIJ013nv-rBqzMRWtmyu0q6lNk,Kandungaw Peak,nature,south_cebu,0.90700351035317,4.7,216.0
+257,ChIJ3wv5kX-ZqTMRlPSwIKPdgX8,Horizon View Condo - Cebu,nature,cebu_city,0.8121634760814138,4.1,23.0
+258,ChIJ71beu9GbqTMRxF6GClNllcI,CCLEX - Cebu City Point,nature,cebu_city,0.9105375642113088,4.7,281.0
+259,ChIJK7Jd7xWZqTMRv1lhz-p5i2g,Verified Rooftop Bar & Lounge,food_drink,cebu_city,0.8720753628567048,4.5,732.0
+260,ChIJSbkRxsygqTMRnMB8aYzITAk,Mount Mauyog Pinnacle Karst,nature,north_metro,0.894922348944431,4.9,41.0
+261,ChIJ4W49zRiVqzMRnw1Db0kd0dg,Lugsangan Peak,nature,south_cebu,0.8829214861549246,4.8,40.0
+262,ChIJgYn8TwKvqTMRF6EEG8vfAmY,Mt. Mago,nature,north_metro,0.8850853091821851,4.8,43.0
+263,ChIJOeOaYJ-eqTMRfWFJ4na_pHc,Hills View Village,nature,cebu_city,0.8168153305050945,4.2,37.0
+264,ChIJIbDGqEWZqTMRoelsHQAPXYs,The Archdiocesan Shrine of the Most Sacred Heart of Jesus,religious,cebu_city,0.9396091802993858,4.8,531.0
+265,ChIJaZJt1dOeqTMRw3dscv0YQVM,Archdiocesan Shrine of Our Lady of Guadalupe,religious,cebu_city,0.8920693581926977,4.6,396.0
+266,ChIJBdMP0hucqTMRLk-E6I6Sl04,Archdiocesan Shrine of Our Lady of Lourdes,religious,cebu_city,0.9153486567619824,4.7,446.0
+267,ChIJxZmjGUaZqTMRR5u5Tob6zGI,Our Mother of Perpetual Help - Redemptorist Church,religious,cebu_city,0.9217479169524072,4.7,1422.0
+268,ChIJWxN4FSWZqTMR8KfwccwAEzg,Cebu City Philippines Temple,religious,cebu_city,0.9145478902924524,4.7,408.0
+269,ChIJme40sLOeqTMRwQg87MTn6AY,Alliance of Two Hearts Church,religious,cebu_city,0.885503826860423,4.6,194.0
+270,ChIJ6TRaEUWZqTMRlloIrB56UHM,Archbishop's Palace - Archdiocese of Cebu,religious,cebu_city,0.862005305420132,4.5,126.0
+271,ChIJ1UYhmyaZqTMR8mOrYOgwLUY,Archdiocesan Shrine of St. Thérèse of the Child Jesus,religious,cebu_city,0.91621639220907,4.7,495.0
+272,ChIJeYNtDozaqzMRQhw7yUZhvWI,Monastery of the Holy Eucharist,religious,south_metro,0.9235165583371376,4.7,3177.0
+273,ChIJD6bjG7CbqTMR5yEpv0dFhh8,Sr. Sto. Niño Chapel,religious,cebu_city,0.8436703253964823,4.5,23.0
+274,ChIJTZoSWC-ZqTMRM1T0lpFognE,"Cebu Word of Life Church Ministries, Inc.",religious,cebu_city,0.8686605192914341,5.0,15.0
+275,ChIJk_BrJeKbqTMRy6lIrU8g27M,Cebu Gospel Church,religious,cebu_city,0.8479843199109296,4.6,18.0
+276,ChIJH0OWauGbqTMR-eP5Em1te4g,"Santuario Arquidiocesano de Nuestra Señora del Carmen, la Limpia (formerly Our Lady of Mt. Carmel Parish-Recoletos)",religious,cebu_city,0.8543957995850741,4.5,61.0
+277,ChIJzYaCh0aZqTMRvuQBLuSfLXU,"IGLESIA NI CRISTO [Cebu City, Cebu District Office]",religious,cebu_city,0.9102251041788372,4.7,274.0
+278,ChIJv5WUaV-ZqTMRx2A_hZ7kr7k,Maranatha Christian Fellowship,religious,cebu_city,0.8684180237019354,4.8,24.0
+279,ChIJg2LOh0iZqTMRObPelomTWUo,Mother of Perpetual Help Parish (Cebu Archdiocese),religious,cebu_city,0.8829214861549246,4.8,40.0
+280,ChIJU6ov8uWYqTMRfBoe2d_Z98g,Adoration Convent of Divine Peace,religious,cebu_city,0.9162333367253486,4.9,74.0
+281,ChIJ69rb5DeZqTMRfNGBX2itk9U,Our Lady of the Sacred Heart Parish,religious,cebu_city,0.916872553062722,4.7,539.0
+282,ChIJt0v6Yk2ZqTMRJYks04He-RY,Cebu Bethel Temple,religious,cebu_city,0.8206047007597636,4.2,21.0
+283,ChIJ_5mLA_ybqTMR63RFja0hA0E,Archdiocesan Shrine of San Nicolas de Tolentino Parish Church,religious,cebu_city,0.8974881250226623,4.7,124.0
+284,ChIJhRePD0WZqTMRFDvlNTa3i64,Sanctuary Of The Most Sacred Heart Of Jesus,religious,cebu_city,0.8358256491142926,5.0,2.0
+285,ChIJXwBQNreeqTMRrjhKsUUBOiE,"Living Word Christian Churches of Cebu - International, Incorporated",religious,cebu_city,0.8896293375394322,4.8,50.0
+286,ChIJTU-bAzeZqTMRj14oIniY1AI,Word for the World Christian Fellowship - Cebu,religious,cebu_city,0.8464080871809577,4.6,16.0
+287,ChIJEyWnqmyZqTMRrrqU4cQyuvc,"Saint Joseph the Patriarch Parish Church - Mabolo, Cebu City",religious,cebu_city,0.8958679132639522,4.6,806.0
+288,ChIJr5TyTFeZqTMRGey7mOrelc0,Daughters of St. Paul - Cebu City,religious,cebu_city,0.841906180628578,5.0,4.0
+289,ChIJu7TeMLOeqTMROsAvDQ1aC4M,Fo Guang Shan Chu Un Temple,religious,cebu_city,0.8736039832383822,4.6,84.0
+290,ChIJK9q601OZqTMRhDhrA8ynZ8k,San Vicente Ferrer Parish-Franciscans,religious,cebu_city,0.8681345383238128,4.6,61.0
+291,ChIJLZkmkDWZqTMRkXbW7Bvx93E,Mother of Perpetual Help,religious,cebu_city,0.8447806137080585,5.0,5.0
+292,ChIJ8btqfgWcqTMRt_zRHQlVONc,Cebu Archdiocesan Shrine of San Roque,religious,cebu_city,0.8425923839567373,4.4,90.0
+293,ChIJuwBG7MyZqTMR6oUMuNZ9YNo,Jesus And My Church - Cebu (JAMC),religious,cebu_city,0.832606544194965,5.0,1.0
+294,ChIJT3t55DOZqTMR_yk0s2YML2A,Cebu Christian Center Church,religious,cebu_city,0.8585292993021698,4.8,16.0
+295,ChIJ1TE752ObqTMRjb3IQ-dCLuY,St Joseph Priory Cebu Faith Hub - Brothers of St. John,religious,cebu_city,0.851031700884315,4.8,11.0
+296,ChIJbXkmC9eZqTMRXfP8h1eanOg,UPCPI - City Tabernacle Cebu,religious,cebu_city,0.8358256491142926,5.0,2.0
+297,ChIJxy08xYKZqTMR_XIipO0NY5U,Victory Cebu Downtown,religious,cebu_city,0.8992683508734725,4.8,69.0
+298,ChIJP29DZsOZqTMRyi5f6kTCqag,Lifegiver Cebu,religious,cebu_city,0.8358256491142926,5.0,2.0
+299,ChIJUR36uMqeqTMRE5tFqW3d330,ISBCC International Southern Baptist Church Of Cebu Inc.,religious,cebu_city,0.8476768432871731,4.8,9.0
+300,ChIJbUrAhEaZqTMR9e-HBedkeII,Praise Cathedral - Cebu,religious,cebu_city,0.841906180628578,5.0,4.0
+301,ChIJI7_IFEqZqTMRoSqQr27S8XU,"MCGI Locale of Guadalupe, Cebu City, Cebu (Members Church of God International)",religious,cebu_city,0.8932866719242902,5.0,30.0
+302,ChIJg7CD61CZqTMRx0_t_IRhVwU,Santo Niño de Cebu Augustinian Social Development Foundation Inc.,religious,cebu_city,0.8623053831281162,5.0,12.0
+303,ChIJz3YfNDyZqTMR8m8io1I0P6k,Cebu Christian Gospel Center 基督徒聚會所,religious,cebu_city,0.8593322818086224,4.9,13.0
+304,ChIJj9pgdHybqTMRAKcnZlDwAq4,Cebu Cathedral Rectory,religious,cebu_city,0.8358256491142926,5.0,2.0
+305,ChIJL7OYCwCbqTMRjBb3O2UKBmE,A simbahan,religious,cebu_city,0.832606544194965,5.0,1.0
+306,ChIJRx1PrDaZqTMR5hWtt0Kd71w,Sacred Heart Of Jesus Bless And Protect The People Of Cebu,religious,cebu_city,0.8358256491142926,5.0,2.0
+307,ChIJyVOzDOGbqTMRKLXraGUHopM,ICOC Cebu (International Churches of Christ Cebu),religious,cebu_city,0.860048094326938,5.0,11.0
+308,ChIJ2yemU_qbqTMRwZtaHfMZSKs,Sto. Niño Parish,religious,cebu_city,0.8564059654792131,4.5,73.0
+309,ChIJp3BV_TKZqTMRb4YwZ4IC-_E,LLCF Free Methodist Church Cebu,religious,cebu_city,0.8324226059990375,4.4,9.0
+310,ChIJ67giJ6-eqTMRQw-9KuvKcy0,Redeemer's Covenant Baptist Church of Cebu (formerly Sovereign Grace Bible Church),religious,cebu_city,0.8577155625657202,5.0,10.0
+311,ChIJpbOLMDiZqTMRCcb34fvFZkY,Liturgical Apostolate Center - Cebu,shopping,cebu_city,0.8447806137080585,5.0,5.0
+312,ChIJg8iXiB-ZqTMRbdDuu583FCs,Capitol Center Seventh-day Adventist Church,religious,cebu_city,0.8574666734506969,4.9,12.0
+313,ChIJH39EPdaZqTMRpsLAeennnq0,Believers Church Cebu,religious,cebu_city,0.832606544194965,5.0,1.0
+314,ChIJR6QkSf-bqTMR3KyMryTm72I,Cebu Bible Church,religious,cebu_city,0.8475523884632717,5.0,6.0
+315,ChIJ035cwz6ZqTMRMlnbgJGuyEc,St. Pauls,shopping,cebu_city,0.8464080871809577,4.6,16.0
+316,ChIJQ6Q3gL5zqTMRxMbCTo2EC4Q,Cebu,beach,cebu_city,0.8737107856561123,4.5,1724.0

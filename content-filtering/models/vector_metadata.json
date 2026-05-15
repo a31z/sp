@@ -1,0 +1,36 @@
+{
+  "n_pois": 317,
+  "vocab_size": 1053,
+  "n_text_dims": 1053,
+  "n_attr_dims": 16,
+  "total_dims": 1069,
+  "params": {
+    "MAX_FEATURES": null,
+    "NGRAM_RANGE": [
+      1,
+      2
+    ],
+    "MIN_DF": 2,
+    "STOP_WORDS": "english",
+    "TEXT_WEIGHT": 0.5
+  },
+  "attribute_columns": [
+    "cat_accommodation",
+    "cat_attraction",
+    "cat_beach",
+    "cat_entertainment",
+    "cat_food_drink",
+    "cat_history",
+    "cat_museum",
+    "cat_nature",
+    "cat_religious",
+    "cat_shopping",
+    "zone_cebu_city",
+    "zone_eastern_cebu",
+    "zone_north_cebu",
+    "zone_north_metro",
+    "zone_south_cebu",
+    "zone_south_metro"
+  ],
+  "ranking_strategy": "two-stage: cosine similarity \u2192 re-rank with weighted_score"
+}
