@@ -1,0 +1,8 @@
+{
+  "n_users": 100,
+  "n_pois": 317,
+  "n_factors": 20,
+  "test_frac": 0.2,
+  "n_ratings": 7248,
+  "sparsity": 0.7714
+}
