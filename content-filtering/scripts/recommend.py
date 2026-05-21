@@ -21,7 +21,6 @@ def recommend(
     categories=None,
     query=None,
     zones=None,
-    alpha=0.3,
     top_n=10,
     top_k=30,
     exclude_ids=None,
@@ -30,10 +29,10 @@ def recommend(
     """
     Return top-N POI recommendations.
 
-    alpha       — stage-2 blend (0=pure relevance, 1=pure popularity, default 0.3)
     top_k       — candidate pool for stage-1; must be >= top_n
     exclude_ids — google_place_ids to skip (e.g. already-visited POIs)
     """
+    popularity_weight = 1.0
     if top_k < top_n:
         top_k = top_n
 
@@ -47,7 +46,7 @@ def recommend(
 
     cand = _INDEX.iloc[candidate_idx].copy()
     cand["similarity"]  = sims[candidate_idx]
-    cand["final_score"] = (1 - alpha) * cand["similarity"] + alpha * cand["weighted_score"]
+    cand["final_score"] = (1 - popularity_weight) * cand["similarity"] + popularity_weight * cand["weighted_score"]
     cand = cand.sort_values("final_score", ascending=False).head(top_n).reset_index(drop=True)
     cand.insert(0, "rank", cand.index + 1)
 
@@ -61,19 +60,12 @@ def recommend(
 if __name__ == "__main__":
     print(f"matrix: {_POI_MATRIX.shape}  index: {len(_INDEX)} POIs")
 
-    print("\nbeach + nature, alpha=0.3")
-    print(recommend(categories=["beach", "nature"], alpha=0.3, top_n=5).to_string(index=False))
+    print("\nbeach + nature")
+    print(recommend(categories=["beach", "nature"], top_n=5).to_string(index=False))
 
-    print("\nhistory + text query, alpha=0.3")
+    print("\nhistory + text query")
     print(recommend(
         categories=["history", "museum"],
         query="spanish colonial architecture old churches",
-        alpha=0.3, top_n=5,
-    ).to_string(index=False))
-
-    print("\nsame query, alpha=0.7 (favour popular)")
-    print(recommend(
-        categories=["history", "museum"],
-        query="spanish colonial architecture old churches",
-        alpha=0.7, top_n=5,
+        top_n=5,
     ).to_string(index=False))
