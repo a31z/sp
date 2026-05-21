@@ -56,14 +56,15 @@ TYPE_CATEGORIES = {
 K_VALUES = [5, 10]
 
 DEFAULTS = {
-    "text_weight":    0.5,
-    "max_features":   None,
-    "ngram_range":    (1, 2),
-    "min_df":         2,
-    "n_factors":      20,
-    "bayesian_m":     50,
-    "alpha":          0.5,
-    "like_threshold": 3.5,
+    "text_weight":       0.5,
+    "max_features":      None,
+    "ngram_range":       (1, 2),
+    "min_df":            2,
+    "n_factors":         20,
+    "bayesian_m":        50,
+    "alpha":             0.5,
+    "like_threshold":    3.5,
+    "similarity_metric": "cosine",
 }
 
 
@@ -85,6 +86,15 @@ def norm_dict(d):
     vals = np.array(list(d.values()))
     lo, hi = vals.min(), vals.max()
     return dict(zip(d.keys(), (vals - lo) / (hi - lo + 1e-9)))
+
+def pearson_similarity(user_vec, matrix):
+    u = np.asarray(user_vec.todense()).flatten() if sparse.issparse(user_vec) else user_vec.flatten()
+    m = matrix.toarray() if sparse.issparse(matrix) else matrix
+    u_c = u - u.mean()
+    m_c = m - m.mean(axis=1, keepdims=True)
+    num    = m_c @ u_c
+    denom  = np.linalg.norm(m_c, axis=1) * np.linalg.norm(u_c)
+    return np.where(denom > 0, num / denom, 0.0)
 
 
 def build_user_vec(categories, n_text_dims, text_weight):
@@ -132,7 +142,7 @@ def recompute_weighted_score(m):
     return ((n / (n + m)) * rating_norm + (m / (n + m)) * C).values
 
 
-def run_eval(cbf_matrix, cbf_poi_ids, n_text_dims, text_weight, R_hat, alpha, like_threshold):
+def run_eval(cbf_matrix, cbf_poi_ids, n_text_dims, text_weight, R_hat, alpha, like_threshold, similarity_metric="cosine"):
     results = []
 
     for user_id, u_idx in cf_user_idx.items():
@@ -148,9 +158,12 @@ def run_eval(cbf_matrix, cbf_poi_ids, n_text_dims, text_weight, R_hat, alpha, li
 
         train_gpids = {cf_poi_ids[j] for j in np.where(R_train[u_idx] > 0)[0]}
 
-        cf_scores  = {cf_poi_ids[j]: float(R_hat[u_idx, j]) for j in range(len(cf_poi_ids))}
-        user_vec   = build_user_vec(categories, n_text_dims, text_weight)
-        sims       = cosine_similarity(user_vec, cbf_matrix).flatten()
+        cf_scores = {cf_poi_ids[j]: float(R_hat[u_idx, j]) for j in range(len(cf_poi_ids))}
+        user_vec  = build_user_vec(categories, n_text_dims, text_weight)
+        if similarity_metric == "pearson":
+            sims = pearson_similarity(user_vec, cbf_matrix)
+        else:
+            sims = cosine_similarity(user_vec, cbf_matrix).flatten()
         cbf_scores = {cbf_poi_ids[j]: float(sims[j]) for j in range(len(cbf_poi_ids))}
 
         cf_n  = norm_dict(cf_scores)
@@ -184,14 +197,15 @@ default_R_hat = np.load(os.path.join(CF_DIR, "models", "R_hat.npy"))
 
 ABLATIONS = [
     # (param_name, values_to_try, which_artifacts_change)
-    ("alpha",          [0.3, 0.5, 0.7],        "eval"),
-    ("like_threshold", [3.0, 3.5, 4.0],        "eval"),
-    ("text_weight",    [0.3, 0.5, 0.7],        "cbf"),
-    ("max_features",   [500, 1000, None],       "cbf"),
-    ("ngram_range",    [(1,1), (1,2), (1,3)],  "cbf"),
-    ("min_df",         [1, 2, 3],              "cbf"),
-    ("n_factors",      [10, 20, 50],           "cf"),
-    ("bayesian_m",     [20, 50, 100],          "preproc"),
+    ("alpha",            [0.25, 0.5, 0.75],       "eval"),
+    ("like_threshold",   [3.0, 3.5, 4.0],         "eval"),
+    ("similarity_metric",["cosine", "pearson"],    "eval"),
+    ("text_weight",      [0.3, 0.5, 0.7],         "cbf"),
+    ("max_features",     [500, 1000, None],        "cbf"),
+    ("ngram_range",      [(1,1), (1,2), (1,3)],   "cbf"),
+    ("min_df",           [1, 2, 3],               "cbf"),
+    ("n_factors",        [10, 20, 50],            "cf"),
+    ("bayesian_m",       [20, 50, 100],           "preproc"),
 ]
 
 all_rows = []
@@ -225,7 +239,7 @@ for param_name, values, group in ABLATIONS:
 
         metrics = run_eval(
             cbf_matrix, cbf_poi_ids, n_text, cfg["text_weight"],
-            R_hat, cfg["alpha"], cfg["like_threshold"],
+            R_hat, cfg["alpha"], cfg["like_threshold"], cfg["similarity_metric"],
         )
 
         row = {
